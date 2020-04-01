@@ -7,3 +7,4 @@ by Guillaume Delhaye, David Bauman, Maxime Séleck, Edouard Ilunga wa Ilunga, Gr
 Abun.csv contains species abundances in the 21 composite communities.
 Cu.soil.csv contains soil chemical and physical properties in the 21 composite communities. 
 Traits.total.csv contains the traits for all species present in the communities. 
+Script FE2020-00076.R contains the R script used for analysing the data.
